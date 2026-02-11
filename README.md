@@ -76,7 +76,7 @@ p {
   overflow: visible;
   display: block;
   margin-bottom: 15px;
-  line-height: 1.6;
+  line-height: 1.7;
 }
 
 /* Image styling */
