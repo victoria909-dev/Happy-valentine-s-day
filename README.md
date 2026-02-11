@@ -138,15 +138,15 @@ ul li {
 <h1>Hi babe 🥺❤️</h1>
 <div class="heart">💖💘💞</div>
 
-<p class="typing>I just want you to know that you make me really happy.</p>
+<p>I just want you to know that you make me really happy.</p>
 
-<p class="typing>Thank you for supporting me in the ways you can, even when things are not easy and I’m sorry if I’ve ever been ungrateful in any way 😔.</p>
+<p>Thank you for supporting me in the ways you can, even when things are not easy and I’m sorry if I’ve ever been ungrateful in any way 😔.</p>
 
 <p>I’m really grateful to have you in my life, and I appreciate how you always make sure I’m comfortable (even though you make sure everyone is comfortable 😏, you’re the only special person to me).</p>
 
 <p>I love your laughter, the way your body feels, every kiss, every touch, how your presence heals. You're my peace,my fire, my safest place, my favorite home is your warm embrace, thank you for loving me so much. I may not show it or say it enough, but I really do love you so much.Thank you for loving me even on the days I’m hard to love, and for being patient with my moods and soft heart 😉.</p>
 
-<p class="typing>I may not have money for gifts this year, but I do have feelings, prayers, wishes, love and and this little website made just for you 🥺💖</p>
+<p>I may not have money for gifts this year, but I do have feelings, prayers, wishes, love and and this little website made just for you 🥺💖</p>
 
 <h2>📸 A Special Memory of us</h2>
 <div class="photo-frame">
