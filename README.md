@@ -148,7 +148,7 @@ and this little website made just for you 🥺💖</p>
 
 <h2>📸 A Special Memory of us</h2>
 <div class="photo-frame">
-  <img src="https://i.imgur.com/7Y5O2YX.jpg" alt="Us Together" class="love-photo">
+  <img src="IMG-20250905-WA0080.jpg" alt="Us Together" class="love-photo">
   <div class="caption">A moment I’ll cherish forever 💕</div>
 </div>
 
