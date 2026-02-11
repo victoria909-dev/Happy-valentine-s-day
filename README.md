@@ -72,11 +72,11 @@ p {
 /* Typing effect */
 .typing {
   border-right: 2px solid #b30000;
-  white-space: normal;
+  white-space: normal;   /* 👈 THIS is critical */
   overflow: visible;
+  line-height: 1.8;      /* 👈 spacing */
   display: block;
   margin-bottom: 15px;
-  line-height: 2.0;
 }
 
 /* Image styling */
