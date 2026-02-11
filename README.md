@@ -72,8 +72,10 @@ p {
 /* Typing effect */
 .typing {
   border-right: 2px solid #b30000;
-  white-space: nowrap;
-  overflow: hidden;
+  white-space: normal;
+  overflow: visible;
+  display: block;
+  margin-bottom: 15px;
 }
 
 /* Image styling */
