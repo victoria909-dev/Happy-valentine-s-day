@@ -151,7 +151,7 @@ ul li {
 <h2>📸 A Special Memory of us</h2>
 <div class="photo-frame">
   <img src="IMG-20250905-WA0080.jpg" alt="Us Together" class="love-photo">
-  <div class="caption">A moment I’ll cherish forever 💕</div>
+  <div class="caption">A moment I’ll cherish forever 😉💕</div>
 </div>
 
 <h2>💌 10 Reasons I Love You</h2>
